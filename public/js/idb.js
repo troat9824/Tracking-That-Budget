@@ -65,7 +65,7 @@ function uploadTrans() {
                 budgetObjectStore.clear();
 
                 alert('All saved transactions have been submitted!');
-
+                
             })
             .catch(err=> {
                 console.log(err);

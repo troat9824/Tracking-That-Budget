@@ -14,7 +14,7 @@ This app allows the user to track their budget and leverages offline access and 
 
 ## Deployed Application 
 
-[Alt!](https://intense-savannah-01536.herokuapp.com/)
+[Tracking-That-Budget](https://intense-savannah-01536.herokuapp.com/)
 
 
 ## Usage
